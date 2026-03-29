@@ -12,7 +12,7 @@ I’m a developer focused on building immersive experiences and functional tools
 * **GearVR 2.0**: Exploring stereoscopic UI and spatial interfaces for mobile XR.
 
 ### 💻 Technical Toolkit
-* **Languages:** Kotlin, C++, Java, Swift
+* **Languages:** Kotlin, C++, Java, Swift, Python, lua, ect
 * **Frameworks:** Android SDK, JUCE, iPlug2, XR Tech
 * **Tools:** VS Code, Android Studio, AI-Assisted Architecture
 
